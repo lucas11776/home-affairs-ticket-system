@@ -1,4 +1,4 @@
-# home-affairs-ticket-system.github.io
+# home-affairs-ticket-system
 Dome Home-Affairs ticket system using javascript.
 
 # story 
